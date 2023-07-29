@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(6, 254, 171);
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+#registrationForm{
+    text-align: center;
+    margin: auto;
+    margin-top: 35px;
+    width: fit-content;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    height: 80vh;
+}
+
+.box{
+    margin: 25px;
+    text-align: left;
+    font-weight: 700;
+}
+
+#btn{
+    margin-bottom: 5px;
+    margin: 25px;
+    font-weight: 700;
+    border: 2px solid black;
+    width: fit-content;
+    border-radius: 8px;
+    background-color: blue;
+}
+
+.error-message {
+    color: red;
+}
+
+
+
+
+
